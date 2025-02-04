@@ -1,5 +1,5 @@
 <div align="center" style="border: 2px solid #000000; border-radius: 10px;">
-  <img height="600" src="https://i.ibb.co.com/6KjDg8F/gitpro.jpg" />
+  <img src="https://i.ibb.co.com/6KjDg8F/gitpro.jpg" />
 </div>
 
 ###
@@ -50,9 +50,7 @@
 
 ###
 
-<div align="center" style="border: 2px solid #000000; padding: 10px; border-radius: 10px;">
-  <h2>My Stats</h2>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=fardin-alvi&mode=weekly&type=png" alt="GitHub Streak" />
-  </a>
+<div align="center">
+   <h2>My Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=fardin-alvi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
