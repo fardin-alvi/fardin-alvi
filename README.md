@@ -50,6 +50,25 @@
 
 ###
 
+<h4 align="left">Connect with Me</h4>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/md-fardin-islam" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="38" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/aryan.alve.7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="54" height="38" alt="facebook logo"  />
+  </a>
+</div>
+
+
+
+###
+
 <div align="center">
    <h2>My Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=fardin-alvi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
