@@ -20,11 +20,11 @@
 
 ###
 
-<h4 align="left">I code with</h4>
+<h4 align="center">I code with</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -42,6 +42,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fardin-alvi)](https://git.io/streak-stats)
+### 
+
+<h4 align="center">My Stats</h4>
+
+###
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fardin-alvi&theme=radical&border_radius=3.5" alt="GitHub Streak" /></a>
 
