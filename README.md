@@ -1,5 +1,5 @@
 <div align="center" style="border: 2px solid #000000; border-radius: 10px;">
-  <img src="https://i.ibb.co.com/S80hL1n/gitpro.jpg" />
+  <img height="400" src="https://i.ibb.co.com/6KjDg8F/gitpro.jpg" />
 </div>
 
 ###
