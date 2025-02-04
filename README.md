@@ -43,5 +43,5 @@
 </div>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=fardin-alvi
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fardin-alvi)](https://git.io/streak-stats)
 
