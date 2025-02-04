@@ -48,5 +48,5 @@
 
 ###
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fardin-alvi&theme=radical&border_radius=3.5" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fardin-alvi&mode=weekly&type=png" alt="GitHub Streak" /></a>
 
