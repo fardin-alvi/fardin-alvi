@@ -6,7 +6,6 @@
 
 <div align="center" style="border: 2px solid #000000; padding: 10px; border-radius: 10px;">
   <h1>Md Fardin Islam</h1>
-  <p>Frontend Web Developer</p>
 </div>
 
 ###
