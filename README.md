@@ -42,4 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-###
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=fardin-alvi
+
