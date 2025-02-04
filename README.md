@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">About me</h4>
+<h2 align="left">About Me</h4>
 
 ###
 
@@ -20,11 +20,11 @@
 
 ###
 
-<h2 align="center">I code with</h4>
+<h2 align="center">I Code With</h4>
 
 ###
 
-<div align="center border">
+<div align="center" className="border">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -44,7 +44,7 @@
 
 ### 
 
-<h4 align="center">My Stats</h4>
+<h2 align="center">My Stats</h4>
 
 ###
 
