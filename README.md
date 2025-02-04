@@ -22,10 +22,7 @@
 
 <div align="center" style="border: 2px solid #000000; padding: 10px; border-radius: 10px;">
   <h2>About Me</h2>
-  <p>✨ Increasing knowledge of new technology</p>
-  <p>📚 I'm currently learning React</p>
-  <p>🎯 Goals: To be Full Stack Developer by the end of 2025</p>
-  <p>🎲 Fun fact: Debate</p>
+  <p>✨ Increasing knowledge of new technology <br/> 📚 I'm currently learning React <br/> 🎯 Goals: To be Full Stack Developer by the end of 2025 <br/> 🎲 Fun fact: Debate </p>
 </div>
 
 ###
@@ -55,20 +52,7 @@
 
 <div align="center" style="border: 2px solid #000000; padding: 10px; border-radius: 10px;">
   <h2>My Stats</h2>
-  <div align="center">
-    <!-- GitHub Streak in Ring Format -->
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardin-alvi&theme=dark&ring=000000" alt="GitHub Streak" />
-    </a>
-    
-    <!-- GitHub Stats in Ring Format -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=fardin-alvi&show_icons=true&theme=dark&border_color=000000&icon_color=FFD700&ring_color=FFD700" alt="GitHub Stats" />
-    </a>
-    
-    <!-- GitHub Languages in Ring Format -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardin-alvi&layout=compact&theme=dark&border_color=000000&icon_color=FFD700&ring_color=FFD700" alt="Top Languages" />
-    </a>
-  </div>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=fardin-alvi&mode=weekly&type=png" alt="GitHub Streak" />
+  </a>
 </div>
