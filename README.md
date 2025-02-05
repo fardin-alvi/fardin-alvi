@@ -53,10 +53,8 @@
 <h2 align="left">Connect with Me</h4>
 
 ###
-
 <br clear="both">
-
-<div align="center" style="border: 2px solid #000000; padding: 5px; border-radius: 10px;>\
+<div align="center" style="border: 2px solid #000000; border-radius: 10px;>\
    <a href="https://www.linkedin.com/in/md-fardin-islam" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="42" alt="linkedin logo"  />
   </a>
